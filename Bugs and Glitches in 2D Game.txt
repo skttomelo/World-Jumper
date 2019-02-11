@@ -1,0 +1,24 @@
+bug 1:
+Found by  Chris Thomas;
+Game opens up 2 instances of the game -- Resolved
+--------------------------------------
+bug 2:
+Found By Me;
+character has a delay in switching animation for turning -- Resolved (no longer a problem)
+--------------------------------------
+bug 3:
+Found by Me;
+when taking out thread for aiTest class, I found that the character will no longer move and will not respond to any sense of command -- Resolved
+--------------------------------------
+bug 4:
+Found by Me;
+character no matter what, decides to fall towards main ground no matter where it hits
+it thinks its on the first peice of ground nomatter what as of now -- Resolved
+--------------------------------------
+bug 5:
+Found by Me:
+When jumping and on and object, you fall through -- Resolved
+--------------------------------------
+fix required 1
+Found by me:
+too tight of collisions for player attacking mob which cause him to get hit while trying to hit the other mob

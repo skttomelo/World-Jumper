@@ -1,0 +1,16 @@
+Later Updates currently brainstorming and determining how to go about:
+
+	-Collision
+	  --Inprogress
+
+	-Music
+	  --This is a side for right now (basically unimportant)
+
+	-GUI
+	  --I have to come up with what is going to be shown in the gui first
+
+	-Menu
+	  --Will come after some GUI has been made
+
+	-Save/Load
+	  --Side - note will be done soon just not now

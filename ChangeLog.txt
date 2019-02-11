@@ -1,0 +1,48 @@
+4/13/2014 Version 0.0.8:
+  -added a new mob (The Factor Tree)
+  -Name changed back to "World Jumper", because I found "Clunkster" to be a nuisance
+--------------------------------------------------
+3/21/2014 Version 0.0.7:
+  -Character now can die and lose health from being hit by slimes
+--------------------------------------------------
+3/12/2014 Version 0.0.7:
+  -Name changed to Clunkster
+  -Slimes now can be attacked correctly and they have a grayed image of them when they're hurt
+--------------------------------------------------
+3/1/2014 Version 0.0.6:
+  -Enemies respawn at random locations when you reset them
+--------------------------------------------------
+2/19/2014 Version 0.0.6:
+  -Enemies respawn back at their spots when you press R
+--------------------------------------------------
+2/15/2014 Version 0.0.6:
+  -Added in Fighting
+    --mobs hurt player also
+  -Object Collisions
+--------------------------------------------------
+2/02/2014 Version 0.0.5:
+  -Added back Sprinting --Thank God! :)
+  -Fixed one of the AI programing so it doesn't have its own thread
+  -Added Day/Night Cycle (Note: it does look a litle ugly)
+--------------------------------------------------
+2/01/2014 Version 0.0.4:
+  -Removed some threading in player to lower cpu usage
+    --as a result, I had to remove sprinting for the time being
+--------------------------------------------------
+1/31/2014 Version 0.0.4:
+  -You can now see your fps
+  -Tweaked jumping
+  -Added sprinting
+  -changed controls
+--------------------------------------------------
+1/30/2014 Version 0.0.3:
+  -Good news, the jumping and moving for the character are now on different threads!(so the mechanics of the character should be a lot better)
+  -Changed image of wallet
+--------------------------------------------------
+1/29/2014 Version 0.0.3:
+  -No Longer need the folders for Images :)
+--------------------------------------------------
+1/28/2014  Version 0.0.3:
+  -Currently added animations to Character
+  -Added more response to turning during animation
+  -Made a name for the game at the moment

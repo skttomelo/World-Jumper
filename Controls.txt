@@ -1,0 +1,11 @@
+	Controls
+      For The Game
+-------------------------
+Controls For Movement:
+move left - press left
+move right - press right
+jump - press D
+sprint - press S
+punch - press F (Note: you can't move while doing so and you can't do it while jumping either)
+-------------------------
+to reset mobs and you press R 

@@ -1,0 +1,31 @@
+Chris' Input:
+increase size of character -- done
+ability to die -- done deal
+procedural generated tiles  -- no
+level - up system
+level select  -- maybe
+make a new enemy / flag for ending -- thinking on
+--------------------------
+Garrett's Input:
+coins for currency pic -- done
+Weapons
+No projectile weapon
+Armour
+--------------------------
+My Input:
+BufferedImages for images -- done
+sprinting -- done
+Add This |
+         V
+--------------------------
+Future Update:
+ -add these keys for gaming: 
+  --a = inventory
+  --s = sprint  -implemented
+  --d = jump  -implemented
+  --f = attack -implemented
+--------------------------
+My Input Continued:
+Main Menu
+Opacity for images like the slimes
+--------------------------
