@@ -4,6 +4,7 @@ This project is a little prototype that I used to help me learn about java in a 
 * The basics of Java at this point
 * Basic Object Oriented Design
 * How to render things to a JFrame
+* How to read in images and split bigger images into smaller images for the player and mobs
 * basic animation system (Not really that, just learned how to cycle through images to provide animations)
 * key inputs
 * layer enemy collisions for attacking (comparing rectangles)
